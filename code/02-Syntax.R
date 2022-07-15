@@ -2,6 +2,8 @@
 # Code from 02-subsetting
 # library(ggplot2)
 
+#Annotation I added
+
 x <- c(0, 0, 0, 0, 1, 0 ,0)
 y <- x
 y
